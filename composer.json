@@ -1,8 +1,8 @@
 {
-  "name": "pion/laravel-eloquent-position",
+  "name": "alvits/laravel-eloquent-position",
   "description": "Position logic for Eloquent models with minimum setup",
   "require": {
-    "laravel/framework": "5.1.* || 5.2.* || 5.3.* || 5.4.* || 5.5.* || 5.6.*"
+    "laravel/framework": "5.1.* || 5.2.* || 5.3.* || 5.4.* || 5.5.* || 5.6.* || 5.7.*"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "2.*"
@@ -13,7 +13,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Pion\\Support\\Eloquent\\Position\\": "src/"
+      "Alvits\\Support\\Eloquent\\Position\\": "src/"
     }
   },
   "license": "MIT",
@@ -21,6 +21,10 @@
     {
       "name": "Martin Kluska",
       "email": "martin@kluska.cz"
+    },
+    {
+      "name": "Alexandr Tselishchev",
+      "email": "alvits@icloud.com"
     }
   ],
   "minimum-stability": "stable"
