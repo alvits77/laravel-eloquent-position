@@ -1,12 +1,12 @@
 <?php
 
-namespace Pion\Support\Eloquent\Position;
+namespace Alvits\Support\Eloquent\Position;
 
-use Pion\Support\Eloquent\Position\Query\AbstractPositionQuery;
-use Pion\Support\Eloquent\Position\Query\LastPositionQuery;
-use Pion\Support\Eloquent\Position\Query\PositionQuery;
-use Pion\Support\Eloquent\Position\Query\MoveQuery;
-use Pion\Support\Eloquent\Position\Traits\PositionTrait;
+use Alvits\Support\Eloquent\Position\Query\AbstractPositionQuery;
+use Alvits\Support\Eloquent\Position\Query\LastPositionQuery;
+use Alvits\Support\Eloquent\Position\Query\PositionQuery;
+use Alvits\Support\Eloquent\Position\Query\MoveQuery;
+use Alvits\Support\Eloquent\Position\Traits\PositionTrait;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Contracts\Events\Dispatcher;
 

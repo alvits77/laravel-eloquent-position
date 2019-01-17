@@ -1,5 +1,5 @@
 <?php
-namespace Pion\Support\Eloquent\Position\Traits;
+namespace Alvits\Support\Eloquent\Position\Traits;
 
 use Illuminate\Database\Eloquent\Builder;
 
@@ -9,7 +9,7 @@ use Illuminate\Database\Eloquent\Builder;
  * @method static Builder sorted($way = 'ASC')
  * @method static Builder sortedByDESC()
  *
- * @package Pion\Support\Eloquent\Position\Traits
+ * @package Alvits\Support\Eloquent\Position\Traits
  */
 trait PositionScopeTrait
 {

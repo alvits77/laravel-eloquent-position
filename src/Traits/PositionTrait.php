@@ -1,8 +1,8 @@
 <?php
 
-namespace Pion\Support\Eloquent\Position\Traits;
+namespace Alvits\Support\Eloquent\Position\Traits;
 
-use Pion\Support\Eloquent\Position\PositionObserver;
+use Alvits\Support\Eloquent\Position\PositionObserver;
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\Model;
 

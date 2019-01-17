@@ -1,8 +1,8 @@
 <?php
 
-namespace Pion\Support\Eloquent\Position\Commands;
+namespace Alvits\Support\Eloquent\Position\Commands;
 
-use Pion\Support\Eloquent\Position\Traits\PositionTrait;
+use Alvits\Support\Eloquent\Position\Traits\PositionTrait;
 use Illuminate\Console\Command;
 use Illuminate\Database\Eloquent\Collection;
 use Illuminate\Database\Eloquent\Model;

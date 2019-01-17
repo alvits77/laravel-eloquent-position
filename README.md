@@ -2,9 +2,9 @@
 Position logic for Eloquent models with minimum setup. Before saving it will check if the position has changed
 and updates the other entries based on the models position value.
 
-[![Total Downloads](https://poser.pugx.org/pion/laravel-eloquent-position/downloads?format=flat)](https://packagist.org/packages/pion/laravel-eloquent-position)
-[![Latest Stable Version](https://poser.pugx.org/pion/laravel-eloquent-position/v/stable?format=flat)](https://packagist.org/packages/pion/laravel-eloquent-position)
-[![Latest Unstable Version](https://poser.pugx.org/pion/laravel-eloquent-position/v/unstable?format=flat)](https://packagist.org/packages/pion/laravel-eloquent-position)
+[![Total Downloads](https://poser.pugx.org/alvits/laravel-eloquent-position/downloads?format=flat)](https://packagist.org/packages/alvits/laravel-eloquent-position)
+[![Latest Stable Version](https://poser.pugx.org/alvits/laravel-eloquent-position/v/stable?format=flat)](https://packagist.org/packages/alvits/laravel-eloquent-position)
+[![Latest Unstable Version](https://poser.pugx.org/alvits/laravel-eloquent-position/v/unstable?format=flat)](https://packagist.org/packages/alvits/laravel-eloquent-position)
 
 * [Installation](#installation)
 * [Usage](#usage)
@@ -23,7 +23,7 @@ and updates the other entries based on the models position value.
 **Install via composer**
 
 ```
-composer require pion/laravel-eloquent-position
+composer require alvits/laravel-eloquent-position
 ```
 
 ## Usage
@@ -160,7 +160,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for how to contribute changes. All contri
 
 ## Copyright and License
 
-[laravel-eloquent-position](https://github.com/pionl/laravel-eloquent-position)
+[laravel-eloquent-position](https://github.com/alvits77/laravel-eloquent-position)
 was written by [Martin Kluska](http://kluska.cz) and is released under the 
 [MIT License](LICENSE.md).
 

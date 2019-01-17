@@ -1,9 +1,9 @@
 <?php
 
-namespace Pion\Support\Eloquent\Position\Query;
+namespace Alvits\Support\Eloquent\Position\Query;
 
 use Illuminate\Database\Eloquent\Model;
-use Pion\Support\Eloquent\Position\Traits\PositionTrait;
+use Alvits\Support\Eloquent\Position\Traits\PositionTrait;
 
 class PositionQuery extends AbstractPositionQuery
 {

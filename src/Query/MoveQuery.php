@@ -1,7 +1,7 @@
 <?php
-namespace Pion\Support\Eloquent\Position\Query;
+namespace Alvits\Support\Eloquent\Position\Query;
 
-use Pion\Support\Eloquent\Position\Traits\PositionTrait;
+use Alvits\Support\Eloquent\Position\Traits\PositionTrait;
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Database\Eloquent\Model;
 

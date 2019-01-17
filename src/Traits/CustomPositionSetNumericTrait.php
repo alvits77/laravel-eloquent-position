@@ -1,5 +1,5 @@
 <?php
-namespace Pion\Support\Eloquent\Position\Traits;
+namespace Alvits\Support\Eloquent\Position\Traits;
 
 /**
  * Traits PositionSetNumericTrait
